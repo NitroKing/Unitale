@@ -3,7 +3,7 @@ comments = {}
 commands = {}
 randomdialogue = {}
 
-sprite = "poseur" --Always PNG. Extension is added automatically.
+sprite = "snowman" --Always PNG. Extension is added automatically.
 name = "Snowman"
 hp = 100
 atk = 1
