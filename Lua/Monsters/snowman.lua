@@ -1,14 +1,14 @@
 -- A basic monster script skeleton you can copy and modify for your own creations.
-comments = {"Smells like the work\rof an enemy stand.", "Poseur is posing like his\rlife depends on it.", "Poseur's limbs shouldn't be\rmoving in this way."}
-commands = {"Act 1", "Act 2", "Act 3"}
-randomdialogue = {"Random\nDialogue\n1.", "Random\nDialogue\n2.", "Random\nDialogue\n3."}
+comments = {}
+commands = {}
+randomdialogue = {}
 
 sprite = "poseur" --Always PNG. Extension is added automatically.
-name = "Poseur"
+name = "Snowman"
 hp = 100
 atk = 1
 def = 1
-check = "Check message goes here."
+check = "He'd show mercy, but he doesen't know what that is"
 dialogbubble = "right" -- See documentation for what bubbles you have available.
 canspare = false
 cancheck = true
